@@ -1,0 +1,38 @@
+<!-- body section startrs  -->
+    <div class="container-fluid bg-secondary">
+    <!-- left section starts -->
+    <div class="container border" width="33%">
+        <img src="./images/DSC_2199.JPG" alt="" width="33%" height="240px">
+    </div>
+    <!-- left section ends -->
+    <!-- right section starts -->
+    <div class="container">
+        
+    </div>
+    <!-- right section ends  -->
+    </div> 
+
+    <!-- body section ends -->
+
+
+
+
+
+
+     <div class="container text-center border">
+        <div class="row">
+          <div class="col-sm-3">
+            <img src="" alt="" >
+          </div>
+          <div class="col-sm-9">
+            <div class="row">
+              <div class="col-8 col-sm-6">
+                Level 2: .col-8 .col-sm-6
+              </div>
+              <div class="col-4 col-sm-6">
+                Level 2: .col-4 .col-sm-6
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
